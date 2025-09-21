@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\ProjetosTeste\\BichinhoVirtual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F99E0351-EA72-4A68-8D38-D42620769E41}|BichinhoVirtual\\BichinhoVirtual.csproj|d:\\projetosteste\\bichinhovirtual\\bichinhovirtual\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{F99E0351-EA72-4A68-8D38-D42620769E41}|BichinhoVirtual\\BichinhoVirtual.csproj|solutionrelative:bichinhovirtual\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{F99E0351-EA72-4A68-8D38-D42620769E41}|BichinhoVirtual\\BichinhoVirtual.csproj|D:\\ProjetosTeste\\BichinhoVirtual\\bichinhovirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99E0351-EA72-4A68-8D38-D42620769E41}|BichinhoVirtual\\BichinhoVirtual.csproj|solutionrelative:bichinhovirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F99E0351-EA72-4A68-8D38-D42620769E41}|BichinhoVirtual\\BichinhoVirtual.csproj|d:\\projetosteste\\bichinhovirtual\\bichinhovirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F99E0351-EA72-4A68-8D38-D42620769E41}|BichinhoVirtual\\BichinhoVirtual.csproj|solutionrelative:bichinhovirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F99E0351-EA72-4A68-8D38-D42620769E41}|BichinhoVirtual\\BichinhoVirtual.csproj|d:\\projetosteste\\bichinhovirtual\\bichinhovirtual\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F99E0351-EA72-4A68-8D38-D42620769E41}|BichinhoVirtual\\BichinhoVirtual.csproj|solutionrelative:bichinhovirtual\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\ProjetosTeste\\BichinhoVirtual\\BichinhoVirtual\\.gitignore",
               "RelativeDocumentMoniker": "BichinhoVirtual\\.gitignore",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProjetosTeste\\BichinhoVirtual\\BichinhoVirtual\\Program.cs",
               "RelativeDocumentMoniker": "BichinhoVirtual\\Program.cs",
               "ToolTip": "D:\\ProjetosTeste\\BichinhoVirtual\\BichinhoVirtual\\Program.cs",
               "RelativeToolTip": "BichinhoVirtual\\Program.cs",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAqwA4BAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwDoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T20:03:32.977Z",
               "EditorCaption": ""

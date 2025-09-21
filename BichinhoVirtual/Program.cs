@@ -56,8 +56,7 @@ namespace BichinhoVirtual
         static void ExibirImagem(string imagePath, int width, int height)
         {
             // Caminho para a imagem que deseja exibir
-            //string imagePath = @"C:\Users\Danilo Filitto\Downloads\Panda.jpg";
-
+            
             // Carrega a imagem
             Bitmap image = new Bitmap(imagePath);
 
