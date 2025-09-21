@@ -1,0 +1,22 @@
+# Compiled binary and object folders
+bin/
+obj/
+
+# Visual Studio cache/config
+.vs/
+*.user
+*.suo
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Arquivos gerados pelo programa
+bin/**/*.txt
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
